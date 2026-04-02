@@ -22,4 +22,4 @@ Une application Windows Forms C# (.NET Framework 4.7.2) rudimentaire permettant 
 5. Lancer le fichier `Repertoire.slnx`.
 
 ## 📸 Captures d'écran
-![Capture d'écran] (master/Capture.PNG)
+![Capture d'écran] (/Capture.PNG)
